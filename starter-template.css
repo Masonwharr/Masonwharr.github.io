@@ -255,6 +255,9 @@ padding:50px;
 		width:100%;
 		left:-4%;
 	}
+			#info{
+	font: 400 1.2em/1.5em 'Lato';	
+}
 	.section3{
 	margin-top:50px;
 	background-color:#fafafa;
